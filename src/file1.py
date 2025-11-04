@@ -50,4 +50,8 @@ with mlflow.start_run():
     mlflow.log_artifact("Confusion-matrix.png")
     mlflow.log_artifact(__file__)
     
+    # tags
+    mlflow.set_tags({"Author": 'Jorballcor', "Project": "Wine Classification"})
+    
+    
     print(accuracy)
