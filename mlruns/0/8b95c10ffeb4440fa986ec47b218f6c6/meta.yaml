@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8b95c10ffeb4440fa986ec47b218f6c6/artifacts
+end_time: 1762262989999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b95c10ffeb4440fa986ec47b218f6c6
+run_name: fearless-gnu-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762262989815
+status: 3
+tags: []
+user_id: jorballcor
