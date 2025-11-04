@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "dagshub>=0.6.3",
     "mlflow>=3.5.1",
     "seaborn>=0.13.2",
 ]
