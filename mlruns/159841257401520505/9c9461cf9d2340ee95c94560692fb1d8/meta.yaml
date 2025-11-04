@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/159841257401520505/9c9461cf9d2340ee95c94560692fb1d8/artifacts
+end_time: 1762254077639
+entry_point_name: ''
+experiment_id: '159841257401520505'
+lifecycle_stage: active
+run_id: 9c9461cf9d2340ee95c94560692fb1d8
+run_name: puzzled-crab-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762254077466
+status: 3
+tags: []
+user_id: jorballcor
