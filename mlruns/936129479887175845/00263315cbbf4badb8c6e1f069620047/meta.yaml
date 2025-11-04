@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/936129479887175845/00263315cbbf4badb8c6e1f069620047/artifacts
+end_time: 1762266103546
+entry_point_name: ''
+experiment_id: '936129479887175845'
+lifecycle_stage: active
+run_id: 00263315cbbf4badb8c6e1f069620047
+run_name: gentle-trout-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266099516
+status: 3
+tags: []
+user_id: jorballcor
