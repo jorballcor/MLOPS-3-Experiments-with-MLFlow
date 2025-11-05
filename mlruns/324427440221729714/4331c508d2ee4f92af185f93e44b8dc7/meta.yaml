@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714/4331c508d2ee4f92af185f93e44b8dc7/artifacts
+end_time: 1762359735410
+entry_point_name: ''
+experiment_id: '324427440221729714'
+lifecycle_stage: active
+run_id: 4331c508d2ee4f92af185f93e44b8dc7
+run_name: casual-deer-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762359735396
+status: 3
+tags: []
+user_id: jorballcor

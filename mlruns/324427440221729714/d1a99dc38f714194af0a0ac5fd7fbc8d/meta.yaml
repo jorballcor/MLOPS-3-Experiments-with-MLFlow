@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714/d1a99dc38f714194af0a0ac5fd7fbc8d/artifacts
+end_time: 1762359735357
+entry_point_name: ''
+experiment_id: '324427440221729714'
+lifecycle_stage: active
+run_id: d1a99dc38f714194af0a0ac5fd7fbc8d
+run_name: handsome-penguin-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762359735343
+status: 3
+tags: []
+user_id: jorballcor

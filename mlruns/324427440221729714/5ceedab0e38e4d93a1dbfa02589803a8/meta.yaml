@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714/5ceedab0e38e4d93a1dbfa02589803a8/artifacts
+end_time: 1762359794690
+entry_point_name: ''
+experiment_id: '324427440221729714'
+lifecycle_stage: active
+run_id: 5ceedab0e38e4d93a1dbfa02589803a8
+run_name: rare-trout-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762359794678
+status: 3
+tags: []
+user_id: jorballcor

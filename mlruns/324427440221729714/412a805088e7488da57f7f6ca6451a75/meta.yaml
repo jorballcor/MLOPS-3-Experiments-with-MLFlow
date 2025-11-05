@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714/412a805088e7488da57f7f6ca6451a75/artifacts
+end_time: 1762359794716
+entry_point_name: ''
+experiment_id: '324427440221729714'
+lifecycle_stage: active
+run_id: 412a805088e7488da57f7f6ca6451a75
+run_name: sincere-seal-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762359794705
+status: 3
+tags: []
+user_id: jorballcor

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714/4b29345da2f2461f87bff893a2ac3e7c/artifacts
+end_time: 1762359794729
+entry_point_name: ''
+experiment_id: '324427440221729714'
+lifecycle_stage: active
+run_id: 4b29345da2f2461f87bff893a2ac3e7c
+run_name: clumsy-bass-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762359794719
+status: 3
+tags: []
+user_id: jorballcor

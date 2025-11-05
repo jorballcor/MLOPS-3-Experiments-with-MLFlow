@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714/ee81d3e5b8094731831a9928b4028fae/artifacts
+end_time: 1762359794769
+entry_point_name: ''
+experiment_id: '324427440221729714'
+lifecycle_stage: active
+run_id: ee81d3e5b8094731831a9928b4028fae
+run_name: marvelous-asp-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762359794759
+status: 3
+tags: []
+user_id: jorballcor

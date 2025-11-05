@@ -1,0 +1,6 @@
+artifact_location: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714
+creation_time: 1762359729859
+experiment_id: '324427440221729714'
+last_update_time: 1762359729859
+lifecycle_stage: active
+name: breast-cancer-rf-hyperparameter-tuning

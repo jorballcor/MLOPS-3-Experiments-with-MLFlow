@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714/49a8251369c345e4b61e80164c2d7a04/artifacts
+end_time: 1762359797792
+entry_point_name: ''
+experiment_id: '324427440221729714'
+lifecycle_stage: active
+run_id: 49a8251369c345e4b61e80164c2d7a04
+run_name: casual-doe-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762359790004
+status: 3
+tags: []
+user_id: jorballcor

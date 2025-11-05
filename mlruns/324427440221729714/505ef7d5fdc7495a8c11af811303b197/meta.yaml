@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714/505ef7d5fdc7495a8c11af811303b197/artifacts
+end_time: 1762359735340
+entry_point_name: ''
+experiment_id: '324427440221729714'
+lifecycle_stage: active
+run_id: 505ef7d5fdc7495a8c11af811303b197
+run_name: magnificent-calf-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762359735328
+status: 3
+tags: []
+user_id: jorballcor

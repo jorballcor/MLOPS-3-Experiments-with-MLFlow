@@ -1,0 +1,10 @@
+artifact_location: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714/models/m-96040c049605409ba5ac9a4bea817a5b/artifacts
+creation_timestamp: 1762359735516
+experiment_id: '324427440221729714'
+last_updated_timestamp: 1762359738763
+model_id: m-96040c049605409ba5ac9a4bea817a5b
+model_type: null
+name: random_forest
+source_run_id: 1d9b25cfaa8044f28d91bc7d8433a29a
+status: 2
+status_message: null

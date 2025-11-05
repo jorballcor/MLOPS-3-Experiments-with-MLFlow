@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714/5b4ed00761c64880af79b8948f128760/artifacts
+end_time: 1762359735429
+entry_point_name: ''
+experiment_id: '324427440221729714'
+lifecycle_stage: active
+run_id: 5b4ed00761c64880af79b8948f128760
+run_name: unequaled-bug-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762359735413
+status: 3
+tags: []
+user_id: jorballcor

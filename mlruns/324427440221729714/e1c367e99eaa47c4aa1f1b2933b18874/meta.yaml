@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714/e1c367e99eaa47c4aa1f1b2933b18874/artifacts
+end_time: 1762359735293
+entry_point_name: ''
+experiment_id: '324427440221729714'
+lifecycle_stage: active
+run_id: e1c367e99eaa47c4aa1f1b2933b18874
+run_name: stylish-whale-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762359735280
+status: 3
+tags: []
+user_id: jorballcor
