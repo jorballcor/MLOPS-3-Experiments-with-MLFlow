@@ -1,0 +1,15 @@
+creation_timestamp: 1762361134952
+current_stage: None
+deployment_job_state: null
+description: '### Staged random forest model for breast cancer detection'
+last_updated_timestamp: 1762361237977
+model_id: m-2c9a66cac2d7409dbcce6c86033cc2c5
+name: Jorballcor-BreastCancer-RandForest-V1
+run_id: 49a8251369c345e4b61e80164c2d7a04
+run_link: ''
+source: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714/models/m-2c9a66cac2d7409dbcce6c86033cc2c5/artifacts
+status: READY
+status_message: null
+storage_location: file:///home/jorballcor/Aplica/MLOPS-3-Experiments-with-MLFlow/mlruns/324427440221729714/models/m-2c9a66cac2d7409dbcce6c86033cc2c5/artifacts
+user_id: null
+version: 1
