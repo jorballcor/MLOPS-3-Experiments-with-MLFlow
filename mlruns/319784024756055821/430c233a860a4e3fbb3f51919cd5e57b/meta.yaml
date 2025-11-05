@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/319784024756055821/430c233a860a4e3fbb3f51919cd5e57b/artifacts
+end_time: 1762339529247
+entry_point_name: ''
+experiment_id: '319784024756055821'
+lifecycle_stage: active
+run_id: 430c233a860a4e3fbb3f51919cd5e57b
+run_name: bold-chimp-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762339519800
+status: 3
+tags: []
+user_id: jorballcor
